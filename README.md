@@ -20,7 +20,7 @@ PLANTSY is a plant store where users can view, add , search , and update the inv
    npm start
 
 
-     <!-- Features  / -->
+Features
 
 View Plants: See all plants on page load.
 
